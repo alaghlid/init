@@ -1,0 +1,1 @@
+Pour faire pointer intra.42.fr sur l'adresse 46.19.122.85 , il faut modifier(en tant qu'administrateur) le fichier  /etc/hosts. (46.19.122.85   intra.42.fr)

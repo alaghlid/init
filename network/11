@@ -1,0 +1,1 @@
+En utilisant la commande "traceroute sklash16.org", on trouve dans la ligne 2 que le serveur NAT de l'adresse ip : 10.21.1.1 fait le lien entre le reseau locale (ligne 1) et l'exterieur.
